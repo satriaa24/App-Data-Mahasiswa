@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aplikasi Data Mahasiswa</string>
+
+    <string-array name="daftar_jurusan">
+        <item>Akuntansi</item>
+        <item>Manajemen</item>
+        <item>Sastra Inggris</item>
+        <item>Sastra Jepang</item>
+        <item>Sastra China</item>
+        <item>Teknik Elektro</item>
+        <item>Teknik Informatika</item>
+        <item>Teknik Industri</item>
+        <item>Teknik Mesin</item>
+    </string-array>
+</resources>
